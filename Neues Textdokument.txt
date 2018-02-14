@@ -8,4 +8,9 @@ hgjhgjh
 
 kjkjhkjhk
 kugkhkjhk
+<<<<<<< HEAD
 kgkhkj
+=======
+local
+kgkhkj
+>>>>>>> n
